@@ -12,5 +12,5 @@ I did make some chnages to the original html file
 I did modified css file and deleted some extra styles and make files smaller but nothing chnage in the origina style.
 
 ### I did not chnage the original desing and this website
-![Preview image](https://github.com/samiyeahsan/semantic-html2/blob/main/assets/images/preview.png?raw=true)
+![Preview image](https://github.com/samiyeahsan/semantic-html2/blob/master/assets/images/preview.png?raw=true)
 [Deployed Link](https://samiyeahsan.github.io/semantic-html2/)
